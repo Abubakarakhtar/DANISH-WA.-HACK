@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/download",
+      "dest": "/api/download.js"
+    },
+    {
+      "src": "/download/",
+      "dest": "/api/download.js"
+    }
+  ]
+}
